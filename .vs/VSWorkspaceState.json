@@ -1,13 +1,10 @@
 {
   "ExpandedNodes": [
     "",
-    "\\Hack",
-    "\\Hack\\Hack",
-    "\\Hack\\Hackaton-c8551a63decdd7157bbcedcc94aa00f04681e86f",
-    "\\Hack\\Hackaton-c8551a63decdd7157bbcedcc94aa00f04681e86f\\Hack",
-    "\\Hack\\Hackaton-c8551a63decdd7157bbcedcc94aa00f04681e86f\\Hack\\Hack",
-    "\\Hack\\Hack\\model"
+    "\\ETP1",
+    "\\ETP1\\ETP1",
+    "\\ETP1\\ETP1\\ETP"
   ],
-  "SelectedNode": "\\Hack\\Hackaton-c8551a63decdd7157bbcedcc94aa00f04681e86f\\Hack\\Hack\\App.xaml",
+  "SelectedNode": "\\ETP1\\ETP1\\ETP\\packages.config",
   "PreviewInSolutionExplorer": false
 }
