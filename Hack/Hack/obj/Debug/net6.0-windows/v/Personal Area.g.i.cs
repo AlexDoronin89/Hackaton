@@ -53,7 +53,7 @@ namespace Hack {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/Hack;component/v/personal%20area.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/Hack;V1.0.0.0;component/v/personal%20area.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\..\v\Personal Area.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);
