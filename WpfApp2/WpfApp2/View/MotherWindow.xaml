@@ -1,0 +1,20 @@
+﻿<Window x:Class="WpfApp2.View.MotherWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfApp2.View"
+        xmlns:vm="clr-namespace:WpfApp2.ViewModel"
+        mc:Ignorable="d"
+        Title="MotherWindow" Height="200" Width="250">
+    <Window.DataContext>
+        <vm:MotherViewModel/>
+    </Window.DataContext>
+    <Grid>
+        <StackPanel Orientation="Vertical" HorizontalAlignment="Center">
+            <TextBlock Text="Имя пользователя" Margin="5" />
+            <TextBox Text="{Binding CurrentSender}"  Margin="5" />
+            <Button Content="Создать чат" Margin="5" Command="{Binding CreateChat}"  />
+        </StackPanel>
+    </Grid>
+</Window>

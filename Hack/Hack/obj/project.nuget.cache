@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "SWC2N0PhoV6kSvziMA2+ry5vAg6qwUB7ypXz8m3KaQm86ueJAjdqaA4oTJqVQVG2kcooZQZw3Xg81ykVkxaijw==",
+  "dgSpecHash": "0+sVVrvEzjl2KLfT8EQ1BqDAGNOgy21XCZXx/0EydXvX/y6dRlu7kbJqBIDOaGOeEk766C+znegIbG8sBBDtpg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Alex\\source\\repos\\Hack\\Hack\\Hack.csproj",
+  "projectFilePath": "C:\\Users\\Alex\\Source\\Repos\\Hackaton\\Hack\\Hack\\Hack.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Alex\\.nuget\\packages\\extended.wpf.toolkit\\4.3.0\\extended.wpf.toolkit.4.3.0.nupkg.sha512",
     "C:\\Users\\Alex\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",

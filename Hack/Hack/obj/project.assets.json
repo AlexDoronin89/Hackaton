@@ -836,11 +836,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Alex\\source\\repos\\Hack\\Hack\\Hack.csproj",
+      "projectUniqueName": "C:\\Users\\Alex\\Source\\Repos\\Hackaton\\Hack\\Hack\\Hack.csproj",
       "projectName": "Hack",
-      "projectPath": "C:\\Users\\Alex\\source\\repos\\Hack\\Hack\\Hack.csproj",
+      "projectPath": "C:\\Users\\Alex\\Source\\Repos\\Hackaton\\Hack\\Hack\\Hack.csproj",
       "packagesPath": "C:\\Users\\Alex\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Alex\\source\\repos\\Hack\\Hack\\obj\\",
+      "outputPath": "C:\\Users\\Alex\\Source\\Repos\\Hackaton\\Hack\\Hack\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Alex\\AppData\\Roaming\\NuGet\\NuGet.Config",
