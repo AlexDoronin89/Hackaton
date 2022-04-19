@@ -7,27 +7,33 @@
     </ApplicationDefinition>
   </ItemGroup>
   <ItemGroup>
-    <Compile Update="Personal Area.xaml.cs">
+    <Compile Update="v\Personal Area.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Update="Purchaser.xaml.cs">
+    <Compile Update="v\Purchaser.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Update="RegRooom.xaml.cs">
+    <Compile Update="v\RegRooom.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="v\the supplier.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
   </ItemGroup>
   <ItemGroup>
-    <Page Update="MainWindow.xaml">
+    <Page Update="v\LoginWindow.xaml">
       <SubType>Designer</SubType>
     </Page>
-    <Page Update="Personal Area.xaml">
+    <Page Update="v\Personal Area.xaml">
       <SubType>Designer</SubType>
     </Page>
-    <Page Update="Purchaser.xaml">
+    <Page Update="v\Purchaser.xaml">
       <SubType>Designer</SubType>
     </Page>
-    <Page Update="RegRooom.xaml">
+    <Page Update="v\RegRooom.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="v\the supplier.xaml">
       <SubType>Designer</SubType>
     </Page>
   </ItemGroup>

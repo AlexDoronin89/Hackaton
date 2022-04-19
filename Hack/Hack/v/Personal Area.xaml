@@ -19,6 +19,8 @@
                         <TextBlock FontSize="20" Text="Продукция"/>
                         <TextBlock Text="Кол-во"/>
                         <TextBlock Text="Стоимость"/>
+                        <TextBlock Text="Поставщик"/>
+
                     </StackPanel>
                 </DataTemplate>
             </ListBox.ItemTemplate>
