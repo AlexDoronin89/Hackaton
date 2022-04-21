@@ -1,10 +1,13 @@
 {
   "ExpandedNodes": [
     "",
-    "\\ETP1",
-    "\\ETP1\\ETP1",
-    "\\ETP1\\ETP1\\ETP"
+    "\\Hackaton-main",
+    "\\Hackaton-main\\Hackaton-main",
+    "\\Hackaton-main\\Hackaton-main\\ETP1",
+    "\\Hackaton-main\\Hackaton-main\\ETP1\\ETP1",
+    "\\Hackaton-main\\Hackaton-main\\ETP1\\ETP1\\ETP",
+    "\\Hackaton-main\\Hackaton-main\\ETP1\\ETP1\\ETP\\Model"
   ],
-  "SelectedNode": "\\ETP1\\ETP1\\ETP\\packages.config",
+  "SelectedNode": "\\Hackaton-main\\Hackaton-main\\ETP1\\ETP1\\ETP\\Model\\User.cs",
   "PreviewInSolutionExplorer": false
 }
